@@ -8,14 +8,12 @@ category: blog
 description:
 lang: en
 ---
-# .
 #### Table Of Contents
  - [Causes of Inflation](https://cassidycamp.work/cassidysblog/content/inflation#causes-of-inflation)
  - [Effects of Inflation](https://cassidycamp.work/cassidysblog/content/inflation#effects-of-inflation)
  - [Current Inflation Trends](https://cassidycamp.work/cassidysblog/content/inflation#current-inflation-trends)
  - [Coping with Inflation](https://cassidycamp.work/cassidysblog/content/inflation#coping-with-inflation)
  - [Sources](https://cassidycamp.work/cassidysblog/content/inflation#sources)
-# .
 # Inflation
 Inflation is one of the most significant economic phenomena affecting our daily lives. At its core, inflation is the rate at which the general level of prices for goods and services rises, eroding purchasing power over time. This means that as prices increase, the value of money decreases, and each unit of currency buys fewer goods and services than it did before.
 
