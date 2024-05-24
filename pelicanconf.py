@@ -29,40 +29,15 @@ LANDING_PAGE_ABOUT = {
 
 
 PROJECTS = [
-    {
-        "name": "Blog-o-matic",
-        "url": "https://github.com/iranzo/blog-o-matic",
-        "description": "Canned blog automation for quickly setting up a blog with Pelican",
-    },
-    {
-        "name": "Citellus",
-        "url": "https://citellus.org",
-        "description": "Troubleshooting automation tool with easy to contribute rules",
-    },
-    {
-        "name": "Pablo Iranzo Blog",
-        "url": "https://iranzo.github.io",
-        "description": "Other projects at Github website",
-    },
-    {
-        "name": "Redken Telegram BOT",
-        "url": "https://t.me/redken_bot",
-        "description": "A Telegram bot with support for Karma, RSS Feeds, Quotes, etc",
-    },
 ]
 
 
 LINKS = (
-    ("Redken on telegram", "https://t.me/redken_bot"),
-    ("RHJobs channel on TG", "https://t.me/rhjobs"),
 )
 
 # Keep 'name' like 'twitter' with what 'FontAwesome has for putting the right icon'
 
 SOCIAL = (
-    ("Twitter", "http://twitter.com/iranzop"),
-    ("github", "http://github.com/iranzo"),
-    ("linkedin", "https://www.linkedin.com/in/iranzo/"),
 )
 
 
@@ -106,7 +81,7 @@ PHOTO_EXIF_COPYRIGHT = "COPYRIGHT"
 
 PATH = "content"
 
-TIMEZONE = "Europe/Madrid"
+TIMEZONE = "America/Chicago"
 
 # Put as draft content in the future
 WITH_FUTURE_DATES = True
