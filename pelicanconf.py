@@ -8,10 +8,10 @@ import datetime
 
 AUTHOR = "Cassidy Camp"
 AUTHORS = {
-    "Pablo Iranzo Gómez": {
+    "CassidyCamp": {
         "blurb": """ opensource enthusiast and Lego fan doing some python simple programs like @redken_bot in telegram, etc""",
-        "url": "https://iranzo.github.io",
-        "avatar": "https://avatars.githubusercontent.com/u/312463",
+        "url": "https://cassidycamp.work/",
+        "avatar": "",
     },
 }
 SITENAME = "My personal blog with blog-o-matic"
