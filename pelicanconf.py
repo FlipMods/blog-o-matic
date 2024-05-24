@@ -6,7 +6,7 @@ import datetime
 # THINGS TO CONFIGURE
 # ---------------------------------------------------------------------
 
-AUTHOR = "A blog-o-matic user"
+AUTHOR = "Cassidy Camp"
 AUTHORS = {
     "Pablo Iranzo Gómez": {
         "blurb": """ opensource enthusiast and Lego fan doing some python simple programs like @redken_bot in telegram, etc""",
@@ -19,8 +19,7 @@ SITESUBTITLE = "This is where I do test things"
 SITEURL = "/"
 DEFAULT_LANG = "en"
 DEFAULT_CATEGORY = "blog"
-CLAIM_GOOGLE = "Bk4Z5ucHLyPXqlZlj5LzANpYBBSvxqBW4E8i-Kwf-bQ"
-CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
+
 
 
 LANDING_PAGE_ABOUT = {
@@ -69,14 +68,13 @@ SOCIAL = (
 
 # TWITTER_USERNAME = "fillit"
 # Update if you use amazon links
-AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
 
 # GOOGLE_ANALYTICS tracking ID
 # GOOGLE_ANALYTICS = "UA-81705-12"
 
 # Configure if you use Disqus for comments
-# DISQUS_SITENAME = "iranzo-github-io"
-# DISQUS_DISPLAY_COUNTS = True
+DISQUS_SITENAME = "cassidycamp-work"
+DISQUS_DISPLAY_COUNTS = True
 
 
 # Extra files customization
@@ -96,7 +94,7 @@ PHOTO_THUMB = (192, 144, 60)
 PHOTO_SQUARE_THUMB = False
 PHOTO_RESIZE_JOBS = 5
 PHOTO_WATERMARK = True
-PHOTO_WATERMARK_TEXT = "© Pablo Iranzo Gómez (https://iranzo.github.io)"
+PHOTO_WATERMARK_TEXT = "© Cassidy Camp (https://cassidycamp.work/)"
 PHOTO_WATERMARK_IMG = ""
 PHOTO_EXIF_KEEP = False
 PHOTO_EXIF_REMOVE_GPS = True
