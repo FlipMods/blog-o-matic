@@ -44,7 +44,7 @@ Sources
 ----------
 
 1.  [imf.org - Top 10 Blogs of 2022 Chronicle Onslaught of War, Inflation ...](https://www.imf.org/en/Blogs/Articles/2022/12/19/top-10-blogs-of-2022-chronicle-onslaught-of-war-Inflation-dollar-surge)
-2.  [fredblog.stlouisfed.org - Inflation around the world - FRED Blog](https://fredblog.stlouisfed.org/2022/11/inflation-around-the-world/)
+2.  [fredblog.stlouisfed.org](https://fredblog.stlouisfed.org/2022/11/inflation-around-the-world/)
 3.  [imf.org - Top 10 Blogs of 2023 Unpack Global Economy, Inflation ...](https://www.imf.org/en/Blogs/Articles/2023/12/27/top-10-blogs-of-2023-unpack-global-economy-inflation-debt-trade-and-asia)
 4.  [realeconomy.rsmus.com - Category: Inflation | The Real Economy Blog](https://realeconomy.rsmus.com/category/inflation/)
 5.  [gardner.utah.edu - Blog Post](https://gardner.utah.edu/blog/blog-what-goes-up-must-come-down-the-muddled-post-pandemic-inflation-picture/)
